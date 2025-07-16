@@ -1,0 +1,2 @@
+The number is 22.
+That's the demonastration of fprintf.
